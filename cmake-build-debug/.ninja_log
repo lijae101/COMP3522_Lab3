@@ -1,0 +1,13 @@
+# ninja log v6
+4	1378	7483121931767055	CMakeFiles/Lab3.dir/main.cpp.obj	9d8a4aa998ca8267
+30	3055	7483121932020728	CMakeFiles/Lab3.dir/myStack.cpp.obj	5bbf3e54fa6f714e
+54	34905	7483121932253681	CMakeFiles/Lab3.dir/unit_tests.cpp.obj	4c409524ddd24d9f
+27	1337	7483123872446249	CMakeFiles/Lab3.dir/main.cpp.obj	9d8a4aa998ca8267
+19	238	7483125163194575	CMakeFiles/Lab3.dir/unit_tests.cpp.obj	4c409524ddd24d9f
+238	487	7483125165381791	Lab3.exe	8aed78c6b25c8e7c
+17	1190	7483128764389807	CMakeFiles/Lab3.dir/main.cpp.obj	9d8a4aa998ca8267
+13	37280	7483128899275196	CMakeFiles/Lab3.dir/unit_tests.cpp.obj	4c409524ddd24d9f
+37281	106761	7483129271957566	Lab3.exe	8aed78c6b25c8e7c
+15	1298	7483136685885761	CMakeFiles/Lab3.dir/main.cpp.obj	9d8a4aa998ca8267
+25	35380	7483136685976255	CMakeFiles/Lab3.dir/unit_tests.cpp.obj	4c409524ddd24d9f
+35380	116283	7483137039531019	Lab3.exe	8aed78c6b25c8e7c
